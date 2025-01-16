@@ -11,4 +11,5 @@ console.log(value)
 if score = null before type object and it's number conversion is  0 with the type number.
 if score = undefined before type undefined it's number conversion is  NaN with the type number.
 ture is converted into 1 and vica versa
-*/
+
+
