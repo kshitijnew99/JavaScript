@@ -38,3 +38,11 @@
 
 // Heap - non-primitive/ Reference type - (we get the reference of the original value means that if we changes something in the this the original one is also gets changes)
 
+let userone = {
+    email : "kshitij99@gmail.com",
+    name: "kshitij"
+}
+let usertwo = userone
+
+usertwo.email = "piyush@gmail.com"
+console.log(userone)
