@@ -1,3 +1,6 @@
-const bigInteger = 123515864616n
+const newname = "      kshitijraoranjan      "
 
-console.log(typeof bigInteger)
+// console.log(newname)
+// console.log(newname.trimStart())
+
+// const url = "https://kshitij.99/mr.zeus"
